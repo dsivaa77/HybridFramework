@@ -1,0 +1,9 @@
+2024-02-25 11:11:15.462 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-25 11:11:15.477 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-25 11:11:15.656 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-25 11:11:15.656 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-25 11:11:15.657 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-25 11:11:15.657 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-25 11:11:15.658 [main] WARN  TestCases.BaseClass - warn message
+2024-02-25 11:11:15.762 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-25 11:11:15.878 [main] INFO  TestCases.BaseClass - login button clicked

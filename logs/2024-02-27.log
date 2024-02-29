@@ -1,0 +1,54 @@
+2024-02-27 22:05:06.108 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-27 22:05:06.126 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-27 22:05:06.359 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-27 22:05:06.360 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-27 22:05:06.360 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-27 22:05:06.360 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-27 22:05:06.360 [main] WARN  TestCases.BaseClass - warn message
+2024-02-27 22:05:06.495 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-27 22:05:06.643 [main] INFO  TestCases.BaseClass - login button clicked
+2024-02-27 23:10:31.631 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-27 23:10:31.661 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-27 23:10:31.843 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-27 23:10:31.843 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-27 23:10:31.844 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-27 23:10:31.844 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-27 23:10:31.844 [main] WARN  TestCases.BaseClass - warn message
+2024-02-27 23:10:31.947 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-27 23:10:32.082 [main] INFO  TestCases.BaseClass - login button clicked
+2024-02-27 23:48:27.039 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-27 23:48:27.055 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-27 23:48:27.265 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-27 23:48:27.266 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-27 23:48:27.266 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-27 23:48:27.266 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-27 23:48:27.266 [main] WARN  TestCases.BaseClass - warn message
+2024-02-27 23:48:27.409 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-27 23:48:27.599 [main] INFO  TestCases.BaseClass - login button clicked
+2024-02-27 23:49:40.033 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-27 23:49:40.062 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-27 23:49:40.622 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-27 23:49:40.622 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-27 23:49:40.623 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-27 23:49:40.623 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-27 23:49:40.623 [main] WARN  TestCases.BaseClass - warn message
+2024-02-27 23:49:40.742 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-27 23:49:40.869 [main] INFO  TestCases.BaseClass - login button clicked
+2024-02-27 23:49:58.036 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-27 23:50:00.474 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-27 23:50:00.780 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-27 23:50:00.780 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-27 23:50:00.780 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-27 23:50:00.780 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-27 23:50:00.781 [main] WARN  TestCases.BaseClass - warn message
+2024-02-27 23:50:00.950 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-27 23:50:01.103 [main] INFO  TestCases.BaseClass - login button clicked
+2024-02-27 23:50:58.823 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-27 23:50:58.848 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-27 23:50:59.036 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-27 23:50:59.036 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-27 23:50:59.037 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-27 23:50:59.037 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-27 23:50:59.037 [main] WARN  TestCases.BaseClass - warn message
+2024-02-27 23:50:59.220 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-27 23:50:59.414 [main] INFO  TestCases.BaseClass - login button clicked
