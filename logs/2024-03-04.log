@@ -1,0 +1,144 @@
+2024-03-04 07:01:03.621 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:01:04.538 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:01:04.872 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:01:05.052 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:01:05.222 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:01:08.441 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:01:18.335 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:01:19.084 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:01:28.288 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:02:51.140 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:02:51.752 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:02:52.058 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:02:52.229 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:02:52.393 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:02:55.526 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:02:57.042 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:03:00.062 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:03:09.265 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:05:04.502 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:05:05.254 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:05:05.606 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:05:05.849 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:05:06.206 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:05:09.339 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:05:13.579 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:05:14.424 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:05:23.624 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:07:16.540 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:07:17.075 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:07:17.378 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:07:17.556 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:07:17.721 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:07:20.857 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:07:24.957 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:07:25.742 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:07:35.040 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:07:44.248 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:10:15.284 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:10:15.628 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:10:16.185 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:10:16.349 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:10:16.512 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:10:19.646 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:10:23.718 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:10:24.564 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:10:42.870 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:10:43.019 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:13:00.271 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:13:00.719 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:13:01.038 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:13:01.218 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:13:01.390 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:13:04.563 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:13:08.264 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:13:08.942 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:13:18.143 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:13:27.412 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:15:27.158 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:15:27.452 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:15:27.773 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:15:39.887 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:15:40.333 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:15:40.478 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:18:41.152 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:18:41.715 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:18:52.068 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:18:52.227 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:18:52.393 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:18:55.562 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:18:59.503 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:19:00.337 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:19:09.525 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:19:56.774 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:19:57.113 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:20:07.702 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:20:07.879 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:20:08.053 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:20:11.290 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:20:15.107 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:20:16.032 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:20:25.303 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:21:19.185 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:21:19.701 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:21:30.122 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:21:30.296 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:21:30.461 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:21:33.634 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:21:35.085 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:21:38.932 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:21:48.127 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:21:57.289 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:27:34.980 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:27:35.503 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:27:45.840 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:27:46.002 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:27:46.168 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:27:49.317 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:27:52.899 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:27:53.642 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:28:02.836 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:28:12.118 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:34:40.833 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:34:41.488 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:34:51.876 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:34:52.039 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:34:52.209 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:34:55.384 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:35:03.059 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:35:03.677 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:35:12.864 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:35:22.226 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:37:10.308 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:37:10.766 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:37:11.169 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:37:11.333 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:37:11.499 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:37:14.635 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:37:25.415 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:37:25.744 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:37:34.937 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:37:44.162 [main] INFO  TestCases.BaseClass - Sause cross browser element is clicked
+2024-03-04 07:37:44.351 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:43:03.006 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:43:03.526 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:43:03.829 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:43:03.990 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:43:04.157 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:43:07.389 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:43:13.739 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:43:14.355 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:43:23.551 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:43:32.773 [main] INFO  TestCases.BaseClass - Sause cross browser element is clicked
+2024-03-04 07:43:33.268 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 07:44:13.454 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 07:44:14.019 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 07:44:14.328 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 07:44:14.497 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 07:44:14.658 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 07:44:17.826 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 07:44:21.498 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 07:44:22.494 [main] INFO  TestCases.BaseClass - The pricing page is opened
+2024-03-04 07:44:31.697 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
+2024-03-04 07:44:40.900 [main] INFO  TestCases.BaseClass - Sause cross browser element is clicked
+2024-03-04 07:44:47.309 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed

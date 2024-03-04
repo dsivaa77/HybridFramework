@@ -1,0 +1,187 @@
+2024-02-29 21:11:06.851 [main] INFO  TestCases.BaseClass - URL is logged
+2024-02-29 21:11:06.959 [main] INFO  TestCases.BaseClass - Title is printed
+2024-02-29 21:11:08.370 [main] INFO  TestCases.BaseClass - UserName is entered
+2024-02-29 21:11:08.370 [main] ERROR TestCases.BaseClass - This is error log message
+2024-02-29 21:11:08.371 [main] FATAL TestCases.BaseClass - Fatal message
+2024-02-29 21:11:08.371 [main] DEBUG TestCases.BaseClass - debug message
+2024-02-29 21:11:08.372 [main] WARN  TestCases.BaseClass - warn message
+2024-02-29 21:11:08.569 [main] INFO  TestCases.BaseClass - Password is entered
+2024-02-29 21:11:08.893 [main] INFO  TestCases.BaseClass - login button clicked
+2024-02-29 21:11:12.527 [main] INFO  TestCases.BaseClass - Title is not matched
+2024-02-29 21:11:17.756 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:17.764 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.095 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-02-29 21:11:18.100 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-02-29 21:11:18.102 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-02-29 21:11:18.104 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-02-29 21:11:18.107 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-02-29 21:11:18.109 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-02-29 21:11:18.126 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-02-29 21:11:18.127 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-02-29 21:11:18.138 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-02-29 21:11:18.139 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-02-29 21:11:18.140 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-02-29 21:11:18.142 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-02-29 21:11:18.143 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-02-29 21:11:18.144 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-02-29 21:11:18.208 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-02-29 21:11:18.209 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+2024-02-29 21:11:18.287 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2024-02-29 21:11:18.313 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+2024-02-29 21:11:18.322 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+2024-02-29 21:11:18.328 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+2024-02-29 21:11:18.331 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+2024-02-29 21:11:18.342 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+2024-02-29 21:11:18.347 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+2024-02-29 21:11:18.352 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+2024-02-29 21:11:18.363 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+2024-02-29 21:11:18.367 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+2024-02-29 21:11:18.372 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+2024-02-29 21:11:18.378 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+2024-02-29 21:11:18.384 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+2024-02-29 21:11:18.390 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+2024-02-29 21:11:18.396 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2024-02-29 21:11:18.405 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+2024-02-29 21:11:18.412 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+2024-02-29 21:11:18.421 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+2024-02-29 21:11:18.428 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+2024-02-29 21:11:18.456 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+2024-02-29 21:11:18.467 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+2024-02-29 21:11:18.475 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+2024-02-29 21:11:18.479 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+2024-02-29 21:11:18.487 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+2024-02-29 21:11:18.495 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+2024-02-29 21:11:18.507 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+2024-02-29 21:11:18.522 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+2024-02-29 21:11:18.528 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+2024-02-29 21:11:18.538 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+2024-02-29 21:11:18.550 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+2024-02-29 21:11:18.564 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+2024-02-29 21:11:18.572 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+2024-02-29 21:11:18.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.621 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.668 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.668 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.708 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+2024-02-29 21:11:18.726 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.728 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.778 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.822 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.869 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.915 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:18.955 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:18.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:11:19.055 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:11:19.059 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:09.960 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-02-29 21:30:18.153 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-02-29 21:30:18.195 [main] INFO  TestCases.BaseClass - The project title is printed below 
+2024-02-29 21:30:18.435 [main] INFO  TestCases.BaseClass - Entered the UserName in Username field
+2024-02-29 21:30:18.563 [main] INFO  TestCases.BaseClass - Entered the Password in password field
+2024-02-29 21:30:18.839 [main] INFO  TestCases.BaseClass - click the login button
+2024-02-29 21:30:21.909 [main] INFO  TestCases.BaseClass - Title is matched
+2024-02-29 21:30:21.914 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-02-29 21:30:25.388 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-02-29 21:30:27.391 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-02-29 21:30:27.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:27.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:28.156 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-02-29 21:30:28.163 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-02-29 21:30:28.167 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-02-29 21:30:28.175 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-02-29 21:30:28.180 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-02-29 21:30:28.186 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-02-29 21:30:28.211 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-02-29 21:30:28.213 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-02-29 21:30:28.234 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-02-29 21:30:28.236 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-02-29 21:30:28.237 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-02-29 21:30:28.239 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-02-29 21:30:28.248 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-02-29 21:30:28.251 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-02-29 21:30:28.392 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-02-29 21:30:28.393 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+2024-02-29 21:30:28.479 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+2024-02-29 21:30:28.508 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+2024-02-29 21:30:28.516 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmtsb58btype
+2024-02-29 21:30:28.520 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctnumfmt3870type
+2024-02-29 21:30:28.524 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+2024-02-29 21:30:28.535 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+2024-02-29 21:30:28.541 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+2024-02-29 21:30:28.547 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+2024-02-29 21:30:28.559 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+2024-02-29 21:30:28.563 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+2024-02-29 21:30:28.571 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+2024-02-29 21:30:28.578 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+2024-02-29 21:30:28.586 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+2024-02-29 21:30:28.592 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+2024-02-29 21:30:28.599 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+2024-02-29 21:30:28.605 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+2024-02-29 21:30:28.611 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+2024-02-29 21:30:28.633 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+2024-02-29 21:30:28.641 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+2024-02-29 21:30:28.674 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+2024-02-29 21:30:28.683 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+2024-02-29 21:30:28.696 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+2024-02-29 21:30:28.705 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+2024-02-29 21:30:28.708 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+2024-02-29 21:30:28.713 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+2024-02-29 21:30:28.738 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+2024-02-29 21:30:28.754 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+2024-02-29 21:30:28.759 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+2024-02-29 21:30:28.768 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+2024-02-29 21:30:28.784 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+2024-02-29 21:30:28.805 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+2024-02-29 21:30:28.815 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+2024-02-29 21:30:28.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:28.899 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:28.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:28.986 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.079 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+2024-02-29 21:30:29.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.142 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.256 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.314 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.441 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.513 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.519 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.559 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-02-29 21:30:29.566 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-02-29 21:30:29.792 [main] INFO  TestCases.BaseClass - Entered the user name in the user name field
+2024-02-29 21:30:29.904 [main] INFO  TestCases.BaseClass - Entered the password in the password field
+2024-02-29 21:30:30.117 [main] INFO  TestCases.BaseClass - Click the login button
+2024-02-29 21:30:34.309 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-02-29 21:30:37.440 [main] INFO  TestCases.BaseClass - Click the logout button
+2024-02-29 21:30:40.620 [main] INFO  TestCases.BaseClass - Entered the user name in the user name field
+2024-02-29 21:30:40.724 [main] INFO  TestCases.BaseClass - Entered the password in the password field
+2024-02-29 21:30:40.845 [main] INFO  TestCases.BaseClass - Click the login button
+2024-02-29 21:30:44.966 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-02-29 21:30:48.136 [main] INFO  TestCases.BaseClass - Click the logout button
+2024-02-29 21:30:51.351 [main] INFO  TestCases.BaseClass - Entered the user name in the user name field
+2024-02-29 21:30:51.459 [main] INFO  TestCases.BaseClass - Entered the password in the password field
+2024-02-29 21:30:56.572 [main] INFO  TestCases.BaseClass - Click the login button
+2024-02-29 21:31:00.725 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-02-29 21:31:03.886 [main] INFO  TestCases.BaseClass - Click the logout button
+2024-02-29 21:31:07.130 [main] INFO  TestCases.BaseClass - Entered the user name in the user name field
+2024-02-29 21:31:07.293 [main] INFO  TestCases.BaseClass - Entered the password in the password field
+2024-02-29 21:31:07.393 [main] INFO  TestCases.BaseClass - Click the login button
+2024-02-29 21:31:11.552 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-02-29 21:31:14.729 [main] INFO  TestCases.BaseClass - Click the logout button
+2024-02-29 21:31:17.744 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-02-29 21:31:21.019 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-02-29 21:31:22.072 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-02-29 21:31:22.233 [main] INFO  TestCases.BaseClass - Entered the user name in the user name field
+2024-02-29 21:31:22.343 [main] INFO  TestCases.BaseClass - Entered the password in the password field
+2024-02-29 21:31:22.542 [main] INFO  TestCases.BaseClass - Click the login button
+2024-02-29 21:31:28.996 [main] INFO  TestCases.BaseClass - The product added to cart
+2024-02-29 21:31:32.155 [main] INFO  TestCases.BaseClass - The product is removed from the cart
+2024-02-29 21:31:35.184 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed

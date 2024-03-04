@@ -5,25 +5,29 @@ import java.io.IOException;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import PageObjects.LoginPage;
+import PageObjects.Pageobjects;
 import Utilities.XLUtils;
 
 public class TC_LoginDDT_002 extends BaseClass {
 	
 	@Test(dataProvider="LoginData")
-	public void loginDDT(String user, String pwd) throws InterruptedException {
-		LoginPage lp=new LoginPage(driver);
+	public void loginDDT(String user, String pwd) {
+		Pageobjects lp=new Pageobjects(driver);
 		lp.setUserName(user);
+		logger.info("The Login Username is "+user);
 		lp.setPassword(pwd);
+		logger.info("The login password is "+pwd);
+		
 		lp.clicklogin();
-		Thread.sleep(4000);
+		logger.info("Click the login button");
+		
 		lp.clickmenu();
-		Thread.sleep(3000);
+		logger.info("Click the menu bar");
+		
 		lp.clicklogout();
-		Thread.sleep(3000);
+		logger.info("Click the logout button");
+		
 	}
-	
-	
 	
 	@DataProvider(name="LoginData")
 	String [][] getdata() throws IOException{
@@ -42,6 +46,16 @@ public class TC_LoginDDT_002 extends BaseClass {
 			}
 		}
 			return logindata;
+	}
+	
+	@DataProvider(name="logindata")
+	public Object[][] getData(){
+		
+		return new Object[][] {
+			{"standard_user","secret_sauce"},
+			{"problem_user","secret_sauce"},
+			{"error_user","secret_sauce"}
+		};
 	}
 	
 

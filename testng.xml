@@ -8,9 +8,10 @@
 	 <parameter name="browser" value="chrome"/>
 	<!--  <parameter name="browser" value="ie"/> -->
     <classes>
-     <class name="TestCases.TC_LoginTest001"/>
-     <class name="TestCases.TC_LoginDDT_002"/>
-      <class name="TestCases.TC_HomePage_003"/>
+     <!--  <class name="TestCases.TC_LoginTest001"/>-->
+    <!--  <class name="TestCases.TC_LoginDDT_002"/>-->
+     <!-- <class name="TestCases.TC_HomePage_003"/>-->
+     <class name="TestCases.TC_Products_004"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

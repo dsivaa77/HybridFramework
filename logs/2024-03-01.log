@@ -1,0 +1,26 @@
+2024-03-01 09:38:23.488 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-01 09:44:17.945 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-01 09:45:07.331 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-01 09:45:09.332 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-01 09:45:09.367 [main] INFO  TestCases.BaseClass - The project title is printed below 
+2024-03-01 09:45:09.521 [main] INFO  TestCases.BaseClass - Entered the UserName in Username field
+2024-03-01 09:45:09.676 [main] INFO  TestCases.BaseClass - Entered the Password in password field
+2024-03-01 09:45:09.865 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-01 09:45:12.929 [main] INFO  TestCases.BaseClass - Title is matched
+2024-03-01 09:45:12.937 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-01 09:56:19.367 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-01 09:56:19.604 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-01 09:56:20.172 [main] INFO  TestCases.BaseClass - The project title is printed below 
+2024-03-01 09:56:20.360 [main] INFO  TestCases.BaseClass - Entered the UserName in Username field
+2024-03-01 09:56:20.524 [main] INFO  TestCases.BaseClass - Entered the Password in password field
+2024-03-01 09:56:20.740 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-01 09:56:23.806 [main] INFO  TestCases.BaseClass - Title is matched
+2024-03-01 09:56:23.810 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-01 09:56:35.634 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-01 09:56:36.160 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-01 09:56:36.189 [main] INFO  TestCases.BaseClass - The project title is printed below 
+2024-03-01 09:56:36.333 [main] INFO  TestCases.BaseClass - Entered the UserName in Username field
+2024-03-01 09:56:36.432 [main] INFO  TestCases.BaseClass - Entered the Password in password field
+2024-03-01 09:56:36.585 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-01 09:56:39.650 [main] INFO  TestCases.BaseClass - Title is matched
+2024-03-01 09:56:39.656 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed

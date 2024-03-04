@@ -1,9 +1,9 @@
 TestCases\TC_LoginDDT_002.class
 Utilities\Reporting.class
 TestCases\TC_LoginTest001.class
+OR\SwagLabs_OR.class
 Utilities\ReadConfig.class
-PageObjects\LoginPage.class
 Utilities\XLUtils.class
 TestCases\BaseClass.class
-PageObjects\SwagLabsHomePage.class
 TestCases\TC_HomePage_003.class
+PageObjects\Pageobjects.class

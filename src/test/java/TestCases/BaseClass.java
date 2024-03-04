@@ -31,6 +31,7 @@ public class BaseClass {
 	//public String baseURL="https://www.saucedemo.com/";
 	public String username=readconfig.getUsername();
 	public String password=readconfig.getPassword();
+	
 	public static WebDriver driver;
 	
 	public static Logger logger;
@@ -41,14 +42,16 @@ public class BaseClass {
 	public void setup(String br) {
 		
 		// logs purpose we write the below script
-				logger= LogManager.getLogger(BaseClass.class);
-			    //PropertyConfigurator.configure("log4j.properties");
+		logger= LogManager.getLogger(BaseClass.class);
+	    //PropertyConfigurator.configure("log4j.properties");
 		
 		if(br.equals("chrome")) 
 		{
 		System.setProperty("webdrvier.chrome.driver",System.getProperty("user.dir")+"\\Drivers\\chromedriver.exe");
 		ChromeOptions options=new ChromeOptions();
 		options.addArguments("--start-maximized");
+		String profilePath="C:\\Users\\DELL\\AppData\\Local\\Google\\Chrome\\User Data\\Default";
+		options.addArguments("user-data-dir="+profilePath);
 		//for remove the automated browser pop up
 		options.setExperimentalOption("useAutomationExtension",true);     
 		options.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
@@ -64,13 +67,17 @@ public class BaseClass {
 			driver=new InternetExplorerDriver();
 		}
 		
+		logger.info("Browser initialization started");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get(baseURL);
+		logger.info("The URL is entered in the browser");
 		//driver.manage().window().maximize();
 	}
 	
-	@AfterClass
+    @AfterClass
 	public void Teardown() {
+		driver.manage().deleteAllCookies();
+		logger.info("The Script execution completed and browser is closed");
 		driver.quit();
 	}
 	
@@ -79,24 +86,6 @@ public class BaseClass {
 		File source=ts.getScreenshotAs(OutputType.FILE);
 		File Target=new File(System.getProperty("user.dir") + "/Screenshots/" + tname +".png");
 		FileUtils.copyFile(source, Target);
-		
 		System.out.println("Screenshot taken");
 	}	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
