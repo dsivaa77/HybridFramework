@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -105,6 +106,28 @@ public class Pageobjects extends SwagLabs_OR {
 	public void orchastrate() {
 		orchastrate.click();
 	}
+	
+	public void platformconfigurator() {
+		cofigurator.click();
+	}
+	public void documentation() {
+		pdocumentation.click();
+	}
+	public void docsearch() {
+		docsearch.click();
+		
+	}
+	public void searchbox() {
+		searchbox.sendKeys("Selenium",Keys.ENTER);
+		//searchbox.sendKeys(Keys.ENTER);
+	}
+	
+	
+	
+	
+	
+	
+	
 	
 	//Developers
 	public void developersmenu() {

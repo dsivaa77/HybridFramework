@@ -6,4 +6,5 @@ Utilities\ReadConfig.class
 Utilities\XLUtils.class
 TestCases\BaseClass.class
 TestCases\TC_HomePage_003.class
+TestCases\TC_Products_004.class
 PageObjects\Pageobjects.class

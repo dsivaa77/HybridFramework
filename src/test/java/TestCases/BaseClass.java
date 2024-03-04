@@ -19,6 +19,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import OR.SwagLabs_OR;
 import Utilities.ReadConfig;
 import Utilities.Reporting;
 
@@ -26,6 +27,7 @@ public class BaseClass {
 
 	ReadConfig readconfig=new ReadConfig();
 	Reporting reports=new Reporting();
+	SwagLabs_OR lor=new SwagLabs_OR();
 	
 	public String baseURL=readconfig.getApplicationURL();
 	//public String baseURL="https://www.saucedemo.com/";
@@ -71,10 +73,11 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get(baseURL);
 		logger.info("The URL is entered in the browser");
+		
 		//driver.manage().window().maximize();
 	}
 	
-    @AfterClass
+    @AfterClass(enabled=false)
 	public void Teardown() {
 		driver.manage().deleteAllCookies();
 		logger.info("The Script execution completed and browser is closed");

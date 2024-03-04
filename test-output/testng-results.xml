@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-04T07:44:09 IST" name="HybridFramework" finished-at="2024-03-04T07:44:47 IST" duration-ms="37936">
+  <suite started-at="2024-03-04T22:20:39 IST" name="HybridFramework" finished-at="2024-03-04T22:21:05 IST" duration-ms="25333">
     <groups>
     </groups>
-    <test started-at="2024-03-04T07:44:09 IST" name="LoginTest" finished-at="2024-03-04T07:44:47 IST" duration-ms="37936">
-      <class name="TestCases.TC_Products_004">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TC_Products_004@5b7a5baa]" started-at="2024-03-04T07:44:10 IST" name="setup" finished-at="2024-03-04T07:44:14 IST" duration-ms="4018" status="PASS">
+    <test started-at="2024-03-04T22:20:39 IST" name="LoginTest" finished-at="2024-03-04T22:21:05 IST" duration-ms="25333">
+      <class name="TestCases.TC_NeedHelp">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCases.TC_NeedHelp@776aec5c]" started-at="2024-03-04T22:20:40 IST" name="setup" finished-at="2024-03-04T22:20:44 IST" duration-ms="4423" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,23 +18,88 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logintest()[pri:1, instance:TestCases.TC_Products_004@5b7a5baa]" started-at="2024-03-04T07:44:14 IST" name="logintest" finished-at="2024-03-04T07:44:40 IST" duration-ms="26672" status="PASS">
+        <test-method signature="logintest()[pri:1, instance:TestCases.TC_NeedHelp@776aec5c]" started-at="2024-03-04T22:20:44 IST" name="logintest" finished-at="2024-03-04T22:21:04 IST" duration-ms="19956" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintest -->
-        <test-method signature="crossbrowser()[pri:2, instance:TestCases.TC_Products_004@5b7a5baa]" started-at="2024-03-04T07:44:40 IST" name="crossbrowser" finished-at="2024-03-04T07:44:40 IST" duration-ms="163" status="PASS">
+        <test-method signature="documentation()[pri:2, instance:TestCases.TC_NeedHelp@776aec5c]" started-at="2024-03-04T22:21:04 IST" name="documentation" finished-at="2024-03-04T22:21:04 IST" duration-ms="42" status="FAIL">
+          <exception class="org.openqa.selenium.JavascriptException">
+            <message>
+              <![CDATA[javascript error: Failed to execute 'scrollBy' on 'Window': The provided value is not of type 'ScrollToOptions'.
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c77fadcb08a37bcc0cebb41144c14bb6, executeScript {script=window.scrollBy(300.0), args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50059/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c77fadcb08a37bcc0cebb41144c14bb6]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.JavascriptException: javascript error: Failed to execute 'scrollBy' on 'Window': The provided value is not of type 'ScrollToOptions'.
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c77fadcb08a37bcc0cebb41144c14bb6, executeScript {script=window.scrollBy(300.0), args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50059/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c77fadcb08a37bcc0cebb41144c14bb6
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:464)
+at TestCases.TC_NeedHelp.documentation(TC_NeedHelp.java:37)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.JavascriptException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- crossbrowser -->
-        <test-method signature="orchastrate()[pri:4, instance:TestCases.TC_Products_004@5b7a5baa]" started-at="2024-03-04T07:44:40 IST" name="orchastrate" finished-at="2024-03-04T07:44:47 IST" duration-ms="6280" status="PASS">
+        </test-method> <!-- documentation -->
+        <test-method signature="documentationtab()[pri:3, instance:TestCases.TC_NeedHelp@776aec5c]" started-at="2024-03-04T22:21:04 IST" name="documentationtab" finished-at="2024-03-04T22:21:04 IST" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- orchastrate -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:TestCases.TC_Products_004@5b7a5baa]" started-at="2024-03-04T07:44:47 IST" name="Teardown" finished-at="2024-03-04T07:44:47 IST" duration-ms="408" status="PASS">
+        </test-method> <!-- documentationtab -->
+        <test-method signature="searchbox()[pri:4, instance:TestCases.TC_NeedHelp@776aec5c]" started-at="2024-03-04T22:21:04 IST" name="searchbox" finished-at="2024-03-04T22:21:05 IST" duration-ms="247" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Teardown -->
-      </class> <!-- TestCases.TC_Products_004 -->
+        </test-method> <!-- searchbox -->
+      </class> <!-- TestCases.TC_NeedHelp -->
     </test> <!-- LoginTest -->
   </suite> <!-- HybridFramework -->
 </testng-results>

@@ -142,3 +142,27 @@
 2024-03-04 07:44:31.697 [main] INFO  TestCases.BaseClass - Products menu is mouse hover
 2024-03-04 07:44:40.900 [main] INFO  TestCases.BaseClass - Sause cross browser element is clicked
 2024-03-04 07:44:47.309 [main] INFO  TestCases.BaseClass - The Script execution completed and browser is closed
+2024-03-04 22:11:43.065 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 22:11:43.926 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 22:11:44.443 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 22:11:44.667 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 22:11:44.885 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 22:11:48.022 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 22:11:58.068 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 22:11:58.460 [main] INFO  TestCases.BaseClass - The products menu is opened
+2024-03-04 22:18:52.475 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 22:18:52.998 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 22:18:53.297 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 22:18:53.468 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 22:18:53.632 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 22:18:56.829 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 22:19:00.580 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 22:19:01.153 [main] INFO  TestCases.BaseClass - The products menu is opened
+2024-03-04 22:20:44.016 [main] INFO  TestCases.BaseClass - Browser initialization started
+2024-03-04 22:20:44.607 [main] INFO  TestCases.BaseClass - The URL is entered in the browser
+2024-03-04 22:20:44.878 [main] INFO  TestCases.BaseClass - The User name standard_user is entered in the username field 
+2024-03-04 22:20:45.044 [main] INFO  TestCases.BaseClass - The password secret_sauce is entered the Password field
+2024-03-04 22:20:45.212 [main] INFO  TestCases.BaseClass - click the login button
+2024-03-04 22:20:48.383 [main] INFO  TestCases.BaseClass - Click the menu bar
+2024-03-04 22:20:53.126 [main] INFO  TestCases.BaseClass - About option is clicked
+2024-03-04 22:20:53.655 [main] INFO  TestCases.BaseClass - The products menu is opened

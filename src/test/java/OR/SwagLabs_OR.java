@@ -38,6 +38,18 @@ public class SwagLabs_OR {
 	protected WebElement crossbrowser;
 	@FindBy(xpath="//div[@class='MuiBox-root css-0']//span[@class='MuiTypography-root MuiTypography-buttonLabel css-3nj0wx'][normalize-space()='Sauce Orchestrate']")
 	protected WebElement orchastrate;
+	@FindBy(xpath="//body[1]/div[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/a[1]/div[1]/div[1]/div[1]/div[2]/span[1]")
+	protected WebElement cofigurator;
+	@FindBy(xpath="//button[normalize-space()='Go to documentation']")
+	protected WebElement pdocumentation;
+	
+	@FindBy(xpath="//div[@class='new-search']//span[@class='DocSearch-Button-Placeholder'][normalize-space()='Search']")
+	protected WebElement docsearch;
+	@FindBy(xpath="//input[@id='docsearch-input']")
+	protected WebElement searchbox;
+	
+	
+	
 	
 	
 	//Developers //
