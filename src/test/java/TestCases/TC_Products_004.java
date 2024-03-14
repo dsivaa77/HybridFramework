@@ -36,7 +36,7 @@ public class TC_Products_004 extends BaseClass{
 		po.crossbrowser();
 		logger.info("Sause cross browser element is clicked");
 	}
-	@Test(priority=3,enabled=false)
+	@Test(priority=3,enabled=true)
 	public void platformt() {
 		Pageobjects po=new Pageobjects(driver);
 		po.platform();

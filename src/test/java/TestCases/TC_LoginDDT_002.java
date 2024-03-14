@@ -10,7 +10,7 @@ import Utilities.XLUtils;
 
 public class TC_LoginDDT_002 extends BaseClass {
 	
-	@Test(dataProvider="LoginData")
+	@Test(dataProvider="logindata")
 	public void loginDDT(String user, String pwd) {
 		Pageobjects lp=new Pageobjects(driver);
 		lp.setUserName(user);

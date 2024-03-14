@@ -77,7 +77,7 @@ public class BaseClass {
 		//driver.manage().window().maximize();
 	}
 	
-    @AfterClass(enabled=false)
+    @AfterClass(enabled=true)
 	public void Teardown() {
 		driver.manage().deleteAllCookies();
 		logger.info("The Script execution completed and browser is closed");

@@ -7,13 +7,20 @@
   <test thread-count="5" name="LoginTest(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCases.TC_NeedHelp">
+      <class name="TestCases.TC_HomePage_003">
         <methods>
           <include name="setup"/>
-          <include name="documentation"/>
+          <include name="saucebackpack"/>
           <include name="Teardown"/>
         </methods>
-      </class> <!-- TestCases.TC_NeedHelp -->
+      </class> <!-- TestCases.TC_HomePage_003 -->
+      <class name="TestCases.TC_LoginDDT_002">
+        <methods>
+          <include name="setup"/>
+          <include name="loginDDT" invocation-numbers="0"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- TestCases.TC_LoginDDT_002 -->
     </classes>
   </test> <!-- LoginTest(failed) -->
 </suite> <!-- Failed suite [HybridFramework] -->

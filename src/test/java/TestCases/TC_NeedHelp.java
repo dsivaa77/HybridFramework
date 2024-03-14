@@ -34,7 +34,7 @@ public class TC_NeedHelp extends BaseClass {
 	public void documentation() {
 		Pageobjects po=new Pageobjects(driver);
 		JavascriptExecutor js=(JavascriptExecutor)driver;
-		js.executeScript("window.scrollBy(300.0)");
+		js.executeScript("window.scrollBy(300,0)");
 		po.documentation();
 		try {
 			Thread.sleep(5000);
@@ -73,6 +73,7 @@ public class TC_NeedHelp extends BaseClass {
 	public void searchbox() {
 		Pageobjects po=new Pageobjects(driver);
 		po.searchbox();
+		driver.navigate().back();
 	}
 	
 	

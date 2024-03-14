@@ -1,4 +1,48 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 39.994 s - in TestSuite
+Tests run: 19, Failures: 4, Errors: 0, Skipped: 11, Time elapsed: 30.264 s <<< FAILURE! - in TestSuite
+setup(TestCases.TC_LoginDDT_002)  Time elapsed: 12.112 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files (x86)\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'DESKTOP-Q9U7V40', ip: '192.168.1.110'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--start-maximized, user-data-dir=C:\Users\DELL..., --disable-extensions, --disable-popup-blocking], binary: C:\Program Files (x86)\Goog..., excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: true}}]}]
+
+setup(TestCases.TC_HomePage_003)  Time elapsed: 1.448 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files (x86)\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'DESKTOP-Q9U7V40', ip: '192.168.1.110'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--start-maximized, user-data-dir=C:\Users\DELL..., --disable-extensions, --disable-popup-blocking], binary: C:\Program Files (x86)\Goog..., excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: true}}]}]
+
+setup(TestCases.TC_Products_004)  Time elapsed: 1.674 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files (x86)\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'DESKTOP-Q9U7V40', ip: '192.168.1.110'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--start-maximized, user-data-dir=C:\Users\DELL..., --disable-extensions, --disable-popup-blocking], binary: C:\Program Files (x86)\Goog..., excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: true}}]}]
+
+setup(TestCases.TC_NeedHelp)  Time elapsed: 1.696 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files (x86)\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.) 
+Host info: host: 'DESKTOP-Q9U7V40', ip: '192.168.1.110'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--start-maximized, user-data-dir=C:\Users\DELL..., --disable-extensions, --disable-popup-blocking], binary: C:\Program Files (x86)\Goog..., excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: true}}]}]
+

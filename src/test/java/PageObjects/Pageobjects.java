@@ -39,10 +39,13 @@ public class Pageobjects extends SwagLabs_OR {
 		WebDriverWait usernamewait = new WebDriverWait(driver, Duration.ofSeconds(3));
 		usernamewait.until(ExpectedConditions.elementToBeClickable(textusername));
 		textusername.clear();
+		usernamewait.until(ExpectedConditions.elementToBeClickable(textusername));
 		textusername.sendKeys(uname);
 	}
 	public void setPassword(String pwd) {
 		WebDriverWait passwordwait = new WebDriverWait(driver, Duration.ofSeconds(3));
+		passwordwait.until(ExpectedConditions.elementToBeClickable(passwordd));
+		passwordd.clear();
 		passwordwait.until(ExpectedConditions.elementToBeClickable(passwordd));
 		passwordd.clear();
 		passwordd.sendKeys(pwd);

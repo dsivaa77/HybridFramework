@@ -10,7 +10,7 @@
     </Appenders>
     <Loggers>
         <Root level="trace">
-           <!-- <AppenderRef ref="Console" />  -->                                    <!-- print the logs in console window--> 
+           <AppenderRef ref="Console" />                                      <!-- print the logs in console window--> 
            <AppenderRef ref="MyFile"/>                                         <!-- print the logs in file -->
         </Root>
     </Loggers>

@@ -9,18 +9,19 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">HybridFramework</th></tr>
-<tr><td><a href="#t0">LoginTest</a></td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">25,333</td><td></td><td></td></tr>
+<tr><td><a href="#t0">LoginTest</a></td><td class="num">10</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">91,412</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">HybridFramework</th></tr></tbody><tbody id="t0"><tr><th colspan="4">LoginTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">TestCases.TC_NeedHelp</td><td><a href="#m0">documentation</a></td><td rowspan="1">1709571064621</td><td rowspan="1">42</td></tr><tr><th colspan="4">LoginTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">TestCases.TC_NeedHelp</td><td><a href="#m1">documentationtab</a></td><td rowspan="1">1709571064669</td><td rowspan="1">210</td></tr><tr class="passedeven"><td><a href="#m2">logintest</a></td><td rowspan="1">1709571044620</td><td rowspan="1">19956</td></tr><tr class="passedeven"><td><a href="#m3">searchbox</a></td><td rowspan="1">1709571064885</td><td rowspan="1">247</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">HybridFramework</th></tr></tbody><tbody id="t0"><tr><th colspan="4">LoginTest &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">TestCases.TC_HomePage_003</td><td><a href="#m0">saucebackpack</a></td><td rowspan="1">1710392941636</td><td rowspan="1">13663</td></tr><tr class="failedodd"><td rowspan="1">TestCases.TC_LoginDDT_002</td><td><a href="#m1">loginDDT</a></td><td rowspan="1">1710392914630</td><td rowspan="1">20719</td></tr><tr><th colspan="4">LoginTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">TestCases.TC_LoginDDT_002</td><td><a href="#m2">loginDDT</a></td><td rowspan="2">1710392936344</td><td rowspan="2">1416</td></tr><tr class="passedeven"><td><a href="#m3">loginDDT</a></td></tr><tr class="passedodd"><td rowspan="4">TestCases.TC_LoginTest001</td><td><a href="#m4">PagTitle</a></td><td rowspan="1">1710392907390</td><td rowspan="1">14</td></tr><tr class="passedodd"><td><a href="#m5">PageLogo</a></td><td rowspan="1">1710392907425</td><td rowspan="1">42</td></tr><tr class="passedodd"><td><a href="#m6">homepageloginverification</a></td><td rowspan="1">1710392911137</td><td rowspan="1">62</td></tr><tr class="passedodd"><td><a href="#m7">usernameandpassword</a></td><td rowspan="1">1710392907471</td><td rowspan="1">3652</td></tr><tr class="passedeven"><td rowspan="4">TestCases.TC_Products_004</td><td><a href="#m8">crossbrowser</a></td><td rowspan="1">1710392986449</td><td rowspan="1">220</td></tr><tr class="passedeven"><td><a href="#m9">logintest</a></td><td rowspan="1">1710392959250</td><td rowspan="1">27195</td></tr><tr class="passedeven"><td><a href="#m10">orchastrate</a></td><td rowspan="1">1710392986768</td><td rowspan="1">6289</td></tr><tr class="passedeven"><td><a href="#m11">platformt</a></td><td rowspan="1">1710392986671</td><td rowspan="1">95</td></tr></tbody>
 </table>
-<h2>LoginTest</h2><h3 id="m0">TestCases.TC_NeedHelp#documentation</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.JavascriptException: javascript error: Failed to execute &apos;scrollBy&apos; on &apos;Window&apos;: The provided value is not of type &apos;ScrollToOptions&apos;.
-  (Session info: chrome=122.0.6261.95)
+<h2>LoginTest</h2><h3 id="m0">TestCases.TC_HomePage_003#saucebackpack</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[text()=&apos;Sauce Labs Backpack&apos;]&quot;}
+  (Session info: chrome=122.0.6261.112)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
 System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.10&apos;
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c77fadcb08a37bcc0cebb41144c14bb6, executeScript {script=window.scrollBy(300.0), args=[]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50059/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: c77fadcb08a37bcc0cebb41144c14bb6
+Command: [3125d150fb0104490ee4e59ec03dae1d, findElement {using=xpath, value=//div[text()=&apos;Sauce Labs Backpack&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.112, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61661}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61661/devtoo..., se:cdpVersion: 122.0.6261.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3125d150fb0104490ee4e59ec03dae1d
 	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
@@ -28,12 +29,33 @@ Session ID: c77fadcb08a37bcc0cebb41144c14bb6
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
-	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:464)
-	at TestCases.TC_NeedHelp.documentation(TC_NeedHelp.java:37)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy13.click(Unknown Source)
+	at PageObjects.Pageobjects.slbackpack(Pageobjects.java:79)
+	at TestCases.TC_HomePage_003.saucebackpack(TC_HomePage_003.java:35)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
 ... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">TestCases.TC_NeedHelp#documentationtab</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">TestCases.TC_NeedHelp#logintest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">TestCases.TC_NeedHelp#searchbox</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">TestCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>standard_user</td><td>secret_sauce</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.NullPointerException: Cannot invoke &quot;Object.getClass()&quot; because &quot;exceptionDriver&quot; is null
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at PageObjects.Pageobjects.clickmenu(Pageobjects.java:69)
+	at TestCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:24)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">TestCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>error_user</td><td>secret_sauce</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">TestCases.TC_LoginDDT_002#loginDDT</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>problem_user</td><td>secret_sauce</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">TestCases.TC_LoginTest001#PagTitle</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">TestCases.TC_LoginTest001#PageLogo</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">TestCases.TC_LoginTest001#homepageloginverification</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">TestCases.TC_LoginTest001#usernameandpassword</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">TestCases.TC_Products_004#crossbrowser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">TestCases.TC_Products_004#logintest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">TestCases.TC_Products_004#orchastrate</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">TestCases.TC_Products_004#platformt</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
