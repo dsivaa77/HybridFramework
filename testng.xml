@@ -11,8 +11,8 @@
        <class name="TestCases.TC_LoginTest001"/>
       <class name="TestCases.TC_LoginDDT_002"/>
        <class name="TestCases.TC_HomePage_003"/>
-    <class name="TestCases.TC_Products_004"/>
-   <!--   <class name="TestCases.TC_NeedHelp"/>-->
+   <!--  <class name="TestCases.TC_Products_004"/>
+     <class name="TestCases.TC_NeedHelp"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
